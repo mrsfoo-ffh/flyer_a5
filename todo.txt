@@ -1,0 +1,5 @@
+- pdf export
+- change fonts completely
+- make 2p printing version
+
+
